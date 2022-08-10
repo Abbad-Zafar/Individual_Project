@@ -1,0 +1,12 @@
+1) a GUI, easy to use intuitively (Done)
+2)  the system should be able to load and operate pretrained decision algorithms (Done for CNN)
+3) all of the following decsion algorithms should be supported: CNN, MLP, SVM (Done for CNN)
+4) the system should be able to treat any input count and any output count of the decision algorithms
+5) the system must be able to read test data from one test data folder (Done)
+6) selection the test data folder must be provided (Done)
+7) selection of a folder for the test result must be provided, creation of a new folder shall be supported if the selected folder does not exist (Done)
+8) adjustable input data structure (offset, target vector, row/column)
+9) test measures shall be calculated, stored and displayed (In process)
+10) the test measures are confusion matrix (with total number of test cases, TP, FP, TN, FN); TPR;  FPR; TNR; FNR; F1-Score, ROC. (In process)
+11) a test report shall be stored (In process)
+12) a print function for the test report shall be provided.   (In process)
